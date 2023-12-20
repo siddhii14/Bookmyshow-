@@ -1,2 +1,3 @@
 bookMyShow clone
-https://siddhii14.github.io/Bookmyshow-/
+https://bookmy-app.netlify.app/
+
